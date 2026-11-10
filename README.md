@@ -42,7 +42,7 @@ Here are some of the core projects highlighting my academic and engineering jour
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredodand&show_icons=true&theme=radical&hide_border=true" alt="Alfredo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredodand&show_icons=true&theme=dark&hide_border=true" alt="Alfredo's GitHub stats" />
 </p>
 
 ---
